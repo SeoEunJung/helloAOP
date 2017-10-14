@@ -1,4 +1,4 @@
-package kr.ac.hansung.spring.di;
+package kr.ac.hansung.spring.aop;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
